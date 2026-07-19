@@ -10,7 +10,7 @@
   esmatty      - Content Writer
   Shockwave    - Content Writer
   legocity2000 - Content Writer
-  OPEN         - 3D Content Specialist
+  Pyogenics    - 3D Content Specialist
   OPEN         - Sound Library Curator
   IAmEdWards   - Game Analyst
   antitank99   - Game Analyst
@@ -24,7 +24,7 @@
   three.js: https://threejs.org/
 
 /* SITE */
-  Last update: 2026/02/25
+  Last update: 2026/07/11
   Language: English
   Doctype: HTML5
   IDE: WebStorm
